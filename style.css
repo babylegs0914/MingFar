@@ -88,6 +88,12 @@ header {
   color: #555;
 }
 
+.price {
+  font-weight: bold;
+  color: #2c3e50;
+  margin-top: 8px;
+}
+
 /* 页脚 */
 footer {
   text-align: center;
